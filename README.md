@@ -1,4 +1,8 @@
 # Velodyne Simulator
+
+# Attention
+this package is built and tested with ros-melodic and proto-buf-2.6.1。
+
 URDF description and Gazebo plugins to simulate Velodyne laser scanners
 
 ![rviz screenshot](img/rviz.png)
